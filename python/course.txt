@@ -1,0 +1,13 @@
+To understand why Python is a useful scripting language for developers.
+To learn how to design and program Python applications.
+To learn how to structure data in Python with lists, dictionaries, and tuples.
+To define the structure and components of a Python program.
+To learn how to write functions in Python.
+To learn how to pass arguments to Python functions.
+To learn how to build and package Python modules for reusability.
+To learn how to import and reload modules in Python programs.
+To learn how to read and write files in Python.
+To learn how to design object-oriented programs with Python using classes.
+To learn how to use inheritance and polymorphism with Python classes.
+To learn exception handling in Python for error handling in applications.
+To learn techniques with Python for text processing, processes, and databases.
