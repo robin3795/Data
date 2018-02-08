@@ -27,7 +27,7 @@ Week 2 (Feb 17)
 
 Exercises 
 
-//(Feb 19 ?) Extra for Basic Computer and Programming
+//(Feb 19 TBD) Extra for Basic Computer and Programming
 
 Week 3 (Feb 24)
 2.6 Advanced level
@@ -57,6 +57,8 @@ Week 4 (Mar 03)
 4.2 Data Ingestion project
    4.2.1 Silver layer data
    4.2.2 Source by source data validation
+   4.2.3 Fixed length configuration
+   4.2.4 Fixed delimiter issues
    
 Exercises 
 
