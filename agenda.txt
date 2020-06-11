@@ -1,0 +1,72 @@
+Week 1 (Feb 10)
+Section I:  Big data QA Basic
+1.1 Big data introduction
+1.2 Hadoop Basic
+1.3 ETL QA
+
+Section II:  Robot Framework
+2.1 RF introduction and Setup
+
+Exercises
+
+Week 2 (Feb 17)
+2.2 Basic Level
+   2.2.1 First Test case
+   2.2.2 RIDE tools
+   2.2.3 Resource
+2.3 Intermediate Level
+   2.3.1 Builtin library
+   2.3.2 Other Libraries
+2.4 Database library
+   2.4.1 Database introduction
+   2.4.2 Database keywords
+2.5 Integrated with tools
+   2.5.1 With CI tools: Jenkins or Teamcity
+   2.5.2 With QA Management tools:HP ALM(QC) or Jira    
+   2.5.3 With VCS tools: vcs or git/github 
+
+Exercises 
+
+//(Feb 19 TBD) Extra for Basic Computer and Programming
+
+Week 3 (Feb 24)
+2.6 Advanced level
+   2.6.1 Customize RF -- modify existing libraries
+   2.6.2 Build own libraries
+
+Section III:  Python
+3.1 Basic Python
+   3.1.1 Basic Concepts 
+   3.1.2 Collections: List, Tuple, Dictionary
+   3.1.3 First Python Code
+
+3.2 Intermediate Python
+   3.2.1 Modules
+   3.2.2 File I/O
+   3.2.3 Exceptions
+   3.2.4 DB access
+
+Section IV:  Case Study
+4.1 Data Migration project
+   4.1.1 History data testing
+   4.1.2 Delta data testing
+
+Exercises
+
+Week 4 (Mar 03)
+4.2 Data Ingestion project
+   4.2.1 Silver layer data
+   4.2.2 Source by source data validation
+   4.2.3 Fixed length configuration
+   4.2.4 Fixed delimiter issues
+   
+Exercises 
+
+Week 5 (Mar 10)
+4.3 Data Quality project
+   4.3.1 NFR testing
+   4.3.2 Log checking
+
+Section V: Job Hunting and Q&A
+5.1 Resume & Interview
+5.2 Job offer and assisting 
